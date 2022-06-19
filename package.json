@@ -1,0 +1,10 @@
+{
+    "name": "captain-nft",
+    "version": "1.0.0",
+    "description": "Captain NFT",
+    "author": "Ben Kurrek",
+    "license": "ISC",
+    "scripts": {
+        "build": "cd contract && bash build.sh && cd .."
+    }
+}
